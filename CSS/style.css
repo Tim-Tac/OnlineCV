@@ -1,0 +1,86 @@
+body {
+    font-family: 'Times New Roman';
+    border: 1px solid black;
+}
+
+
+#title {
+    border: 1px solid black;
+    text-align: center;
+    width: 100%;
+}
+
+footer {
+    background-color: dodgerblue;
+    height: 40px;
+    bottom: 0;
+    left: 0;
+    width: 100%;
+    text-align: center;
+}
+
+#menu {
+    font-size: 1.3em;
+    border: 1px solid black;
+    margin-top: 20px;
+}
+
+#menu td{
+    padding-left: 10px;
+    padding-right: 10px;
+    border: 1px solid black;
+}
+
+#content {
+    border: 1px solid black;
+    padding-left: 5%;
+    padding-right: 5%;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    font-size: 1.3em;
+}
+
+#content div{
+    border: 1px solid black;
+}
+
+#separator {
+    background-color: #888888;
+    width: 46%;
+    height: 3px;
+    margin-top: 10px;
+    margin-bottom: 25px;
+    margin-left: 27%;
+    margin-right: 27%;
+}
+
+
+#table-menu {
+    margin: auto;
+}
+
+#personnal_info img {
+    width: 12%;
+    height: 12%;
+    min-height: 7%;
+    min-width: 7%;
+    
+}
+
+#personnal_info {
+    width: 75%;
+    border: 1px solid black;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+header {
+    width: 70%;
+    background-color: dodgerblue;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+head {
+    
+}
