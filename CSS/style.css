@@ -1,5 +1,5 @@
 body {
-    font-family: 'Times New Roman';
+    font-family: 'Arial';
     border: 1px solid black;
 }
 
@@ -33,7 +33,7 @@ footer {
 
 #content {
     border: 1px solid black;
-    padding-left: 5%;
+    padding-left: 10%;
     padding-right: 5%;
     padding-top: 10px;
     padding-bottom: 10px;
@@ -64,23 +64,45 @@ footer {
     height: 12%;
     min-height: 7%;
     min-width: 7%;
-    
 }
 
 #personnal_info {
-    width: 75%;
+    width: 70%;
     border: 1px solid black;
     margin-left: auto;
     margin-right: auto;
 }
 
 header {
-    width: 70%;
-    background-color: dodgerblue;
+    width: 65%;
     margin-left: auto;
     margin-right: auto;
+    border : 1px solib black;
+    text-align: right;
 }
 
 head {
     
+}
+
+
+
+
+
+#informations {
+    display: inline-block;
+    position: relative;
+    border: 1px solid black;
+    width: 50%;
+    height: 100%;
+    left: 0;
+}
+
+#picture {
+    display: inline-block;
+    position: relative;
+    border: 1px solid black;
+    width: 50%;
+    height: 100%;
+    left: 0;
 }
